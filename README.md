@@ -77,4 +77,4 @@ I used `/` as delimiter, so you will have to escape that, too. The only options 
 If you want to test your regex, before applying you can use [this site](http://www.phpliveregex.com/) and enter your Regex and Replacement there and click on preg_replace.
 If you never used regex before, check out [this starting guide](http://docs.activestate.com/komodo/4.4/regex-intro.html) to begin with regular expressions.
 
-© 2026 Tobias Scheuer
+`© 2026 Tobias Scheuer`
